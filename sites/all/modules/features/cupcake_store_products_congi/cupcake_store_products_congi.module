@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Cupcake store products congi feature.
+ */
+
+include_once 'cupcake_store_products_congi.features.inc';
